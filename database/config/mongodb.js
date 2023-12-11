@@ -1,5 +1,5 @@
 const MongoClient = require('mongodb').MongoClient;
-//const url = 'mongodb+srv://soumyasri2245:asMJVVo05p6CKF3f@cluster0.u2ywt3o.mongodb.net/?retryWrites=true&w=majority'
+
 const url ='mongodb+srv://jayaprasadb718:asMJVVo05p6CKF3f@cluster0.cwwzkpt.mongodb.net/?retryWrites=true&w=majority'
 
 async function getEmpData() {
